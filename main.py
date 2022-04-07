@@ -1,1 +1,1 @@
-print('0i')
+print('0i 1')
